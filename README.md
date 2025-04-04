@@ -11,6 +11,7 @@ This is a simple portfolio website built using **only HTML and CSS**. It is desi
 1. [Features](#features)
 2. [Setup Instructions](#setup-instructions)
 3. [Contributing](#contributing)
+4. [contact](contact)
 
 ---
 ## Features
