@@ -54,7 +54,7 @@ All contributions are welcome, including bug reports, feature requests, and docu
 
 If you have any questions or suggestions, feel free to reach out:
 - Email: stephensonmaingi77@gmail.com
-- GitHub: [https://github.com/dashboard](https://github.com/Maingi97)
+- GitHub: [https://github.com/Maingi97](https://github.com/Maingi97)
 
 
 
