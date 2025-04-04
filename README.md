@@ -29,7 +29,6 @@ This is a simple portfolio website built using **only HTML and CSS**. It is desi
 - A text editor (e.g., VS Code, Sublime Text, Notepad++).
 - A modern web browser (e.g., Chrome, Firefox, Edge).
 
----
 ### Steps to Run Locally
 1. **Clone or Download the Files**:
    - Download the `index.html` and `styles.css` files from this repository.
